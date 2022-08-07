@@ -10,4 +10,5 @@ The algorithm for this bot works by running the camera connected to it and strea
 
 To run this project the user must start the webcam first. They must next make sure that their Jetson Nano is connected to a computer or laptop that it will display information on.
 No libraries are needed for this project besides Resnet-18. The user can change what types of birds the bot will recognize by running different datasets that can be found online.
-[View a video explanation here](video link)
+Here is the link to my video explanation of the project and code:
+https://youtu.be/3MhLs9vnM5U
